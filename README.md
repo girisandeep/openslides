@@ -17,3 +17,15 @@ The sub objectives of bigger vision are:
 * Convince the thought leaders and great professors to publish the slides in the form of markdown on github
 * Create a tool that can convert a book into the outline of the slides to help the teachers get started with the slides
 
+If you are in education or software engineering, be part of the movement: https://github.com/girisandeep/openslides
+
+We want to make the  course slides for education open source. 
+
+Though there are tools like Google Slides, SlideShare but none of these is doing a good job of sharing and providing due credits to owners in following way:
+
+* If you took a copy of someone's slides there is no way to provide credits to the actual author without spoiling experience of your own users.
+* It is not possible to merge the updates done by actual author to your. 
+* It is not possible to contribute back your changes. 
+* It is not possible to rate a particular slide in a neat matter.
+
+This is something that can be easily accomplished if we move the slide's publishing to guthub and choose the markdown as format.
