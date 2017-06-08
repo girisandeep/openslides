@@ -12,7 +12,7 @@ So, just like code, if the world starts sharing, contributing and merging the wo
 The teachers in a small town will be able to teach with the slides provided by experts in the domain.
 
 The sub objectives of bigger vision are:
-* Create a tool which can present a markdown as full screen and is readable from 10 ft. It should possible to embed images, youtube and other content
+* Create a tool which can present a markdown as full screen and is readable from 10 ft. It should possible to embed images, youtube and other content. We can start with a Jekyll Template (https://jekyllrb.com/docs/templates/)
 * Create a browser based WYSIWYG publishing tool for slides that saves the slides in markdown format
 * Convince the thought leaders and great professors to publish the slides in the form of markdown on github
 * Create a tool that can convert a book into the outline of the slides to help the teachers get started with the slides
@@ -29,3 +29,4 @@ Though there are tools like Google Slides, SlideShare but none of these is doing
 * It is not possible to rate a particular slide in a neat matter.
 
 This is something that can be easily accomplished if we move the slide's publishing to guthub and choose the markdown as format.
+
